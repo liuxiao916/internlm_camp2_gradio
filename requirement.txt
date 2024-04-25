@@ -1,6 +1,0 @@
-sentencepiece
-gradio==4.10.0
-transformers
-einops
-accelerate
-tiktoken
